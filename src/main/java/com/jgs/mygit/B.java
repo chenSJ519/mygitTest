@@ -6,4 +6,5 @@ package java.com.jgs.mygit;
 public class B {
     //
     //
+    //
 }
