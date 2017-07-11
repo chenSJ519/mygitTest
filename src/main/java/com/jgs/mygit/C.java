@@ -5,4 +5,5 @@ package java.com.jgs.mygit;
  */
 public class C {
   //
+  //
 }
